@@ -1,0 +1,47 @@
+* {
+	margin: 1;
+	padding: 0;
+}
+
+.navbar {
+	align-items: center;
+	justify-content: center;
+	position: sticky;
+	top: 0;
+	cursor: pointer;
+}
+
+.background {
+	background: rgb(80, 239, 231);
+	background-blend-mode: color-dodge;
+	background-size: cover;
+}
+
+.nav-list {
+	width: 70%;
+	display: flex;
+	align-items: center;
+}
+
+
+.nav-list li {
+	list-style: none;
+	padding: 30px 20px;
+}
+
+.nav-list li a {
+	text-decoration: rgb(3, 38, 21);
+	color: #050405;
+}
+
+
+
+
+
+
+
+
+
+
+
+
